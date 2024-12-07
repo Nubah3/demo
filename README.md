@@ -1,13 +1,14 @@
-# Call4Blood - Your Blood Donation Platform
-
-![Call4Blood Home Page](screenshots/Screenshot1.png)
+# Call4Blood - Blood Donation Platform
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/e78bc957-83d1-4e84-917c-81f2f9e64be1" width="800">
+</p>
 
 Welcome to **Call4Blood**, a modern platform designed to connect blood donors with those in need during emergencies. 
 Our mission is to make blood donation simple, efficient, and accessible to all.
 
 ---
 
-## Overview
+## 🌟 Overview
 
 **Call4Blood** is a web application that allows users to:
 - Register as blood donors.
@@ -18,7 +19,7 @@ This platform is built to help save lives by creating a reliable and responsive 
 
 ---
 
-## Features
+## 🔥 Features
 - **User Registration**: Sign up as a blood donor and manage your availability status.
 - **Donor Search**: Search for available donors using filters like division, district, and blood group.
 - **Informative Process**: Get a step-by-step guide on the donation process.
@@ -26,7 +27,7 @@ This platform is built to help save lives by creating a reliable and responsive 
 
 ---
 
-## Technology Stack
+## 🛠️ Technology Stack
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Database**: [Prisma](https://www.prisma.io/)
 - **Authentication**: [NextAuth.js](https://next-auth.js.org/)
@@ -36,26 +37,38 @@ This platform is built to help save lives by creating a reliable and responsive 
 
 ---
 
-## Screenshots
+## 🚀 Site Link
+🌐 Live Demo: [Call4Blood](https://call4blood.vercel.app).
+
+##  📸 Screenshots
 
 ### Home Page
-![Call4Blood Home Page](screenshots/Screenshot1.png)
+<img src="https://github.com/user-attachments/assets/d1cd5b57-5598-40ab-b409-caa8902a843c" width="700">
 
-The welcoming home page introduces the platform with a clear call to action for donors and recipients.
+-The welcoming home page introduces the platform with a clear call to action for donors and recipients.
 
 ### Donation Process
-![Donation Process](screenshots/Screenshot2.png)
+<img src="https://github.com/user-attachments/assets/dc6c218c-0f64-4e7c-b0f7-69c177efe97e" width="700">
 
-Detailed information on the donation process ensures transparency and preparedness for donors.
+-Detailed information on the donation process ensures transparency and preparedness for donors.
 
 ### Donor List
-![Donor List](screenshots/Screenshot3.png)
 
-A comprehensive donor list with filters for easy searchability and management.
+<img src="https://github.com/user-attachments/assets/aeb218e7-3ab7-4891-b0f6-483d11441687" width="700">
+
+-A comprehensive donor list with filters for easy searchability and management.
+
+### Filter Donors by Location and Blood Group
+<p>
+    <img src="https://github.com/user-attachments/assets/371b2ee6-3a49-4338-9c97-dd2dbd71bba7" width="450" height="220" hspace="10" >
+    <img src="https://github.com/user-attachments/assets/50ae7f02-949c-4380-923f-057f6bfae1be" width="450" height="220" hspace="10" >
+</p>
+
+-Search for donors by filtering options like division, district, and blood group.
 
 ---
 
-## How to Get Started
+## 📚 How to Get Started
 
 ### Visit the Website
 1. Open your browser and visit the platform at [Call4Blood](https://call4blood.vercel.app).
@@ -90,7 +103,7 @@ A comprehensive donor list with filters for easy searchability and management.
 
 ---
 
-## Key Functionalities
+## 🔑 Key Functionalities
 
 ### Donor Registration
 Users can register themselves as blood donors by providing necessary details like blood group, age, and location.
@@ -104,7 +117,7 @@ Step-by-step information on the donation process, from registration to post-dona
 
 ---
 
-## Contribution Guidelines
+## 🤝 Contribution Guidelines
 We welcome contributions to improve the platform! Follow these steps:
 1. Fork the repository.
 2. Create a new branch:
@@ -123,15 +136,17 @@ We welcome contributions to improve the platform! Follow these steps:
 
 ---
 
-## License
+## 🙌 Acknowledgments
+A heartfelt thank you to everyone contributing to making blood donation easier and saving lives through this initiative!
+
+## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 ---
 
-## Contact
+## 📬 Contact
 For any questions or suggestions, please feel free to reach out at [support@call4blood.vercel.app](mailto:support@call4blood.vercel.app).
 
 ---
 
-Thank you for visiting Call4Blood! Together, we can make a difference.
-
+🩸 Be a hero in someone's story—donate blood, save lives, and join the Call4Blood family today! 💪❤️
