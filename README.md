@@ -34,6 +34,7 @@ This platform is built to help save lives by creating a reliable and responsive 
 - **Hosting**: [Vercel](https://vercel.com/)
 - **Programming Language**: [TypeScript](https://www.typescriptlang.org/)
 - **UI Components**: [Shadcn](https://shadcn.dev/) & [Tailwind CSS](https://tailwindcss.com/)
+- **Auth**: [Next Auth](https://https://next-auth.js.org/)
 
 ---
 
@@ -43,18 +44,18 @@ This platform is built to help save lives by creating a reliable and responsive 
 ##  📸 Screenshots
 
 ### Home Page
-<img src="https://github.com/user-attachments/assets/d1cd5b57-5598-40ab-b409-caa8902a843c" width="700">
+<img src="https://github.com/user-attachments/assets/d1cd5b57-5598-40ab-b409-caa8902a843c" width="600">
 
 -The welcoming home page introduces the platform with a clear call to action for donors and recipients.
 
 ### Donation Process
-<img src="https://github.com/user-attachments/assets/dc6c218c-0f64-4e7c-b0f7-69c177efe97e" width="700">
+<img src="https://github.com/user-attachments/assets/dc6c218c-0f64-4e7c-b0f7-69c177efe97e" width="600">
 
 -Detailed information on the donation process ensures transparency and preparedness for donors.
 
 ### Donor List
 
-<img src="https://github.com/user-attachments/assets/aeb218e7-3ab7-4891-b0f6-483d11441687" width="700">
+<img src="https://github.com/user-attachments/assets/aeb218e7-3ab7-4891-b0f6-483d11441687" width="600">
 
 -A comprehensive donor list with filters for easy searchability and management.
 
@@ -65,6 +66,50 @@ This platform is built to help save lives by creating a reliable and responsive 
 </p>
 
 -Search for donors by filtering options like division, district, and blood group.
+
+### Viewing User Profile
+
+<img src="https://github.com/user-attachments/assets/aff9dfdb-cf9e-4b26-9bc6-39162fadb76d" width="500" height="280">
+
+-Users can access their profile page to view personal information, including name, contact details, and blood group.
+
+## Editing Profile Information
+
+<img src="https://github.com/user-attachments/assets/25600013-8db4-4037-9a21-f9ed27cbf661" width="500" height="580">
+
+-Users can edit their profile details such as name, contact number, address, and blood group for accuracy or updates.
+
+## Process Steps for the Admin Actions
+
+## Editing an Existing User
+
+<img src="https://github.com/user-attachments/assets/4f99e5c1-e81a-4278-a3a5-819af875a041" width="450" height="520">
+
+-Admins can modify the details of an existing user, ensuring that the information remains accurate and up-to-date.
+
+## Deleting a User
+
+<img src="https://github.com/user-attachments/assets/5676bf1c-fcde-4e9b-9b49-67450057c6d9" width="450">
+
+-Admins have the authority to remove a user from the system by pressing the Delete icon in the user table, maintaining a clean and relevant user database.
+
+## Viewing the Updated User List
+
+<img src="https://github.com/user-attachments/assets/f5e8ff57-d18e-41f3-8d9b-6abd504ae555" width="450">
+
+-After deleting a user, the system updates the user list automatically, reflecting the changes instantly.
+
+## Adding a New User
+
+<img src="https://github.com/user-attachments/assets/a42c7f0d-c023-494d-8588-2c730c378669" width="450">
+
+-Admins can add a new user to the system by filling in the necessary details like name, contact information, and blood group.
+
+<img src="https://github.com/user-attachments/assets/59111538-fa44-4527-8786-5885c97ffa39" width="450" height="520">
+
+-After adding a new user, the system automatically updates the user list to include the new entry.
+
+<img src="https://github.com/user-attachments/assets/8ed899bb-e550-44d4-b80a-5baa7e1a58a9" width="450">
 
 ---
 
