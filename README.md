@@ -1,6 +1,6 @@
 # Call4Blood - Blood Donation Platform
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/e78bc957-83d1-4e84-917c-81f2f9e64be1" width="800">
+    <img src="https://github.com/user-attachments/assets/1dff05cd-7710-40f6-baef-b488fe4a1795" width="800">
 </p>
 
 Welcome to **Call4Blood**, a modern platform designed to connect blood donors with those in need during emergencies. 
@@ -44,9 +44,29 @@ This platform is built to help save lives by creating a reliable and responsive 
 ##  📸 Screenshots
 
 ### Home Page
-<img src="https://github.com/user-attachments/assets/d1cd5b57-5598-40ab-b409-caa8902a843c" width="600">
+
+<img src="https://github.com/user-attachments/assets/1dff05cd-7710-40f6-baef-b488fe4a1795" width="600" height="310">
 
 -The welcoming home page introduces the platform with a clear call to action for donors and recipients.
+
+## User Sign In
+
+<img src="https://github.com/user-attachments/assets/1ebbdd28-b1e3-4c85-904e-6232f9bf16d3" width="600" height="320">
+
+-Users can sign in to their accounts using their registered credentials to access personalized features.
+Upon successful sign-in, users are directed to their profile and dashboard.
+
+### Viewing User Profile
+
+<img src="https://github.com/user-attachments/assets/aff9dfdb-cf9e-4b26-9bc6-39162fadb76d" width="500" height="280">
+
+-Users can access their profile page to view personal information, including name, contact details, and blood group.
+
+## Editing Profile Information
+
+<img src="https://github.com/user-attachments/assets/25600013-8db4-4037-9a21-f9ed27cbf661" width="500" height="580">
+
+-Users can edit their profile details such as name, contact number, address, and blood group for accuracy or updates.
 
 ### Donation Process
 <img src="https://github.com/user-attachments/assets/dc6c218c-0f64-4e7c-b0f7-69c177efe97e" width="600">
@@ -66,18 +86,6 @@ This platform is built to help save lives by creating a reliable and responsive 
 </p>
 
 -Search for donors by filtering options like division, district, and blood group.
-
-### Viewing User Profile
-
-<img src="https://github.com/user-attachments/assets/aff9dfdb-cf9e-4b26-9bc6-39162fadb76d" width="500" height="280">
-
--Users can access their profile page to view personal information, including name, contact details, and blood group.
-
-## Editing Profile Information
-
-<img src="https://github.com/user-attachments/assets/25600013-8db4-4037-9a21-f9ed27cbf661" width="500" height="580">
-
--Users can edit their profile details such as name, contact number, address, and blood group for accuracy or updates.
 
 ## Process Steps for the Admin Actions
 
